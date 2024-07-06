@@ -1,0 +1,315 @@
+body {
+    padding: 0;
+    background-image: linear-gradient(rgb(0, 56, 68, 1), rgb(163, 217, 185, 1), rgb(255, 252, 247, 1));
+}
+
+img {
+    border-radius: 20px;
+    width: 350px;
+
+
+
+
+
+}
+
+.column1 {
+    margin-top: 220 px;
+
+
+    width: 80%;
+    background-color: rgb(223, 213, 213);
+    margin-left: 5px;
+    margin-right: auto;
+
+    padding: 20px;
+    max-width: 300px;
+    border-radius: 40px;
+    font-style: sans-serif;
+    font-size: 20px;
+    color: rgb(95, 94, 94);
+    font-weight: bold;
+
+}
+
+.column2 {
+    height: 450px;
+    width: 80%;
+    background-color: rgb(223, 213, 213);
+    margin-left: 5px;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px;
+    max-width: 300px;
+    border-radius: 40px;
+    font-style: sans-serif;
+    font-size: 20px;
+    
+    font-display: 20px;
+    color: rgb(95, 94, 94);
+
+}
+
+.heading {
+    color: white;
+}
+
+.h1 {
+
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(95, 94, 94);
+
+}
+
+.column3 {
+
+    width: 80%;
+    background-color: rgb(223, 213, 213);
+    margin-left: 5px;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px;
+    max-width: 300px;
+    border-radius: 40px;
+    font-style: sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.h8 {
+    color: white;
+    font-style: sans-serif;
+    font-size: 25px;
+
+    font-weight: bold;
+}
+
+.column4 {
+    position: relative;
+    left: 375px;
+    bottom: 1450px;
+
+    font-style: sans-serif;
+    font-size: 40px;
+    color: white;
+
+}
+
+.h5 {
+    font-style: sans-serif;
+    font-size: 25px;
+    color: rgb(95, 94, 94);
+    font-weight: bold;
+
+}
+
+.summary {
+    position: relative;
+    left: 375px;
+    bottom: 1350px;
+
+    width: 80%;
+    background-color: rgb(223, 213, 213);
+    margin-left: 5px;
+    margin-right: auto;
+    margin-top: 40px;
+    padding: 20px;
+    max-width: 750px;
+    border-radius: 40px;
+    font-style: sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.education {
+
+    position: relative;
+    left: 375px;
+    bottom: 1350px;
+
+    width: 80%;
+    background-color: rgb(223, 213, 213);
+    margin-left: 5px;
+    margin-right: auto;
+    margin-top: 40px;
+    padding: 20px;
+    max-width: 750px;
+    border-radius: 40px;
+    font-style: sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.column5 {
+    position: relative;
+    left: 375px;
+    bottom: 1350px;
+
+    width: 80%;
+    background-color: rgb(223, 213, 213);
+    margin-left: 5px;
+    margin-right: auto;
+    margin-top: 40px;
+    padding: 20px;
+    max-width: 750px;
+    border-radius: 40px;
+    font-style: sans-serif;
+    font-size: 20px;
+    color: black;
+
+}
+
+.column6 {
+    position: relative;
+    left: 5px;
+    bottom: 1250px;
+    right: 1000%;
+
+    width: 200%;
+    background-color: rgb(223, 213, 213);
+    margin-left: 0px;
+    margin-right: 1000px;
+    margin-top: 20px;
+    padding: 40px;
+    max-width: 1150px;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.slider1 {
+    position: absolute;
+    width: 300px;
+    background-color: cyan;
+
+
+    height: 20px;
+    border-radius: 20px;
+
+}
+
+.overlay1 {
+    position: absolute;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #008CBA;
+    text-align: center;
+    color: black;
+    width: 225px;
+    height: 20px;
+
+}
+
+.slider1:hover.overlay {
+    bottom: 30px;
+    height: 30px;
+}
+
+.slider2 {
+    margin: 0px;
+    line-height: 10px;
+    position: absolute;
+    width: 300px;
+    background-color: cyan;
+    margin-bottom: 29px;
+
+    margin-top: 1px;
+    height: 20px;
+    border-radius: 20px;
+
+}
+
+.overlay2 {
+    color: black;
+    position: absolute;
+    margin: 1;
+    margin-bottom: 0px;
+    margin-top: 1px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #008CBA;
+    text-align: center;
+
+    width: 225px;
+    height: 20px;
+
+}
+
+.slider2:hover.overlay {
+    margin-top: 0px;
+   
+    bottom: 30px;
+    height: 30px;
+}
+
+.slider3 {
+    position: absolute;
+    width: 300px;
+    background-color: cyan;
+    margin-top: 10px;
+    color: black;
+    height: 20px;
+    border-radius: 20px;
+
+}
+
+.overlay3 {
+    margin-top: 10px;
+    position: absolute;
+    
+    
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #008CBA;
+    text-align: center;
+    color: black;
+    width: 150px;
+    height: 20px;
+
+}
+
+.slider3:hover.overlay {
+    margin-top: 10px;
+    bottom: 30px;
+    height: 30px;
+}
+
+.slider4 {
+    margin-top: 10px;
+    position: absolute;
+    width: 300px;
+    background-color: cyan;
+
+
+    height: 20px;
+    border-radius: 20px;
+
+}
+
+.overlay4 {
+    color: black;
+    position: absolute;
+    margin-bottom: 2px;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #008CBA;
+    text-align: center;
+
+    width: 150px;
+    height: 20px;
+
+}
+
+.slider4:hover.overlay {
+    margin-top: 10px;
+    bottom: 30px;
+    height: 30px;
+}
